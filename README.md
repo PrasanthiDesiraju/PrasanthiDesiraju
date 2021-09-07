@@ -1,4 +1,4 @@
-<h>  Hello There 👋, I’m <b>Prasanthi Desiraju (Prash) </b></h>
+<h>  Hello There 👋, I’m <b>Prasanthi (Prash) </b></h>
 <hr></hr>
 
 <b><u>About Me</u></b>
